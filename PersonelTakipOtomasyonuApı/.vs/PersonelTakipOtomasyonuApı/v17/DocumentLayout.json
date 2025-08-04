@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|d:\\bilgisayar programlama\\personeltakipotomasyonuap\u0131\\personeltakipotomasyonuap\u0131\\efcore\\personelotomasyonueklemedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|solutionrelative:personeltakipotomasyonuap\u0131\\efcore\\personelotomasyonueklemedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|d:\\bilgisayar programlama\\personeltakipotomasyonuap\u0131\\personeltakipotomasyonuap\u0131\\dtos\\personelguncelledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|solutionrelative:personeltakipotomasyonuap\u0131\\dtos\\personelguncelledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|d:\\bilgisayar programlama\\personeltakipotomasyonuap\u0131\\personeltakipotomasyonuap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|solutionrelative:personeltakipotomasyonuap\u0131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|d:\\bilgisayar programlama\\personeltakipotomasyonuap\u0131\\personeltakipotomasyonuap\u0131\\dtos\\personelolusturdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|solutionrelative:personeltakipotomasyonuap\u0131\\dtos\\personelolusturdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|d:\\bilgisayar programlama\\personeltakipotomasyonuap\u0131\\personeltakipotomasyonuap\u0131\\migrations\\20240521154412_personelotomasyonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04C2EB7-ECA1-47DC-AB15-9EFA40E3E737}|PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131.csproj|solutionrelative:personeltakipotomasyonuap\u0131\\migrations\\20240521154412_personelotomasyonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonelOlusturDto.cs",
+              "DocumentMoniker": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelOlusturDto.cs",
+              "RelativeDocumentMoniker": "PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelOlusturDto.cs",
+              "ToolTip": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelOlusturDto.cs",
+              "RelativeToolTip": "PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelOlusturDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:54:29.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelGuncelleDto.cs",
+              "DocumentMoniker": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelGuncelleDto.cs",
+              "RelativeDocumentMoniker": "PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelGuncelleDto.cs",
+              "ToolTip": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelGuncelleDto.cs",
+              "RelativeToolTip": "PersonelTakipOtomasyonuAp\u0131\\Dtos\\PersonelGuncelleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:54:28.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240521154412_PersonelOtomasyonu.cs",
+              "DocumentMoniker": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Migrations\\20240521154412_PersonelOtomasyonu.cs",
+              "RelativeDocumentMoniker": "PersonelTakipOtomasyonuAp\u0131\\Migrations\\20240521154412_PersonelOtomasyonu.cs",
+              "ToolTip": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Migrations\\20240521154412_PersonelOtomasyonu.cs",
+              "RelativeToolTip": "PersonelTakipOtomasyonuAp\u0131\\Migrations\\20240521154412_PersonelOtomasyonu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:44:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonelOtomasyonuEklemeDbContext.cs",
+              "DocumentMoniker": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Efcore\\PersonelOtomasyonuEklemeDbContext.cs",
+              "RelativeDocumentMoniker": "PersonelTakipOtomasyonuAp\u0131\\Efcore\\PersonelOtomasyonuEklemeDbContext.cs",
+              "ToolTip": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Efcore\\PersonelOtomasyonuEklemeDbContext.cs",
+              "RelativeToolTip": "PersonelTakipOtomasyonuAp\u0131\\Efcore\\PersonelOtomasyonuEklemeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:20:18.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelTakipOtomasyonuAp\u0131\\Program.cs",
+              "ToolTip": "D:\\Bilgisayar Programlama\\PersonelTakipOtomasyonuAp\u0131\\PersonelTakipOtomasyonuAp\u0131\\Program.cs",
+              "RelativeToolTip": "PersonelTakipOtomasyonuAp\u0131\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:46:55.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

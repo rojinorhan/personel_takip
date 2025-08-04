@@ -1,0 +1,398 @@
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.exe
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.deps.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.runtimeconfig.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.pdb
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.csproj.AssemblyReference.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.AssemblyInfoInputs.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.AssemblyInfo.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.csproj.CoreCompileInputs.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Personel.1125E500.Up2Date
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\PersonelTakipOtonomSistemi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.pdb
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.genruntimeconfig.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\PersonelTakipOtonomSistemi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personel.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\email.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\key.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anaekran1.scale-100.jpg
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yoneticilogin1.scale-100.jpg
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beyazekran.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yoneticiekran.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user2.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guncelle.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userekle.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel2.scale-100.jpg
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel3.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\aramacubugu.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personelgoruntule.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\goruntule.scale-100.jpeg
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel4.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel5.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel6.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\aramacubugu2.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete2.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guncelle2.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user3.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user4.scale-100.png
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personelpanel.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.exe
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.deps.json
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.runtimeconfig.json
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.pdb
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.csproj.AssemblyReference.cache
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\anaekran1.scale-100.jpg
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\aramacubugu.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\aramacubugu2.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\beyazekran.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete2.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\email.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\goruntule.scale-100.jpeg
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guncelle.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guncelle2.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\key.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personel.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personelgoruntule.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\personelpanel.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user2.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user3.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user4.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userekle.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel2.scale-100.jpg
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yntpanel3.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yoneticiekran.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\yoneticilogin1.scale-100.jpg
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel4.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel5.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ytppanel6.scale-100.png
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.AssemblyInfoInputs.cache
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.AssemblyInfo.cs
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Personel.1125E500.Up2Date
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\PersonelTakipOtonomSistemi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.pdb
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\PersonelTakipOtonomSistemi.genruntimeconfig.cache
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\PersonelTakipOtonomSistemi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Bilgisayar Programlama\PersonelTakipOtonomSistemi\PersonelTakipOtonomSistemi\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

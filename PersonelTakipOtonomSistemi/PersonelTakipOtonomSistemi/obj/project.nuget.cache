@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZ638dRVvi0=",
+  "success": false,
+  "projectFilePath": "D:\\Yedekler\\Bilgisayar Programlama\\PersonelTakipOtonomSistemi\\PersonelTakipOtonomSistemi\\PersonelTakipOtonomSistemi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "'Microsoft.WindowsAppSDK.1.5.240627000' paketi 'https://api.nuget.org/v3-flatcontainer/microsoft.windowsappsdk/1.5.240627000/microsoft.windowsappsdk.1.5.240627000.nupkg' kaynağından indirilemedi.\r\nİstek gönderilirken bir hata oluştu.\r\n  Uzak ad çözülemedi: 'api.nuget.org'"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "'https://api.nuget.org/v3-flatcontainer/microsoft.windowsappsdk/index.json' uzak kaynağından 'Microsoft.WindowsAppSDK' hakkındaki bilgiler alınamadı.",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    }
+  ]
+}

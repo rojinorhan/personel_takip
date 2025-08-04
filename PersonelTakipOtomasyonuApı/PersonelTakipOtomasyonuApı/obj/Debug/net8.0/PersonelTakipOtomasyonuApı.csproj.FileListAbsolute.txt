@@ -1,0 +1,411 @@
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.exe
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.deps.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.runtimeconfig.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Humanizer.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.AssemblyReference.cache
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfoInputs.cache
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfo.cs
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.CoreCompileInputs.cache
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.PersonelTakipOtomasyonuApı.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonelTakipOtomasyonuApı.props
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonelTakipOtomasyonuApı.props
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonelTakipOtomasyonuApı.props
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\scopedcss\bundle\PersonelTakipOtomasyonuApı.styles.css
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\Personel.72987302.Up2Date
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\refint\PersonelTakipOtomasyonuApı.dll
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.genruntimeconfig.cache
+C:\Users\umutc\OneDrive\Masaüstü\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\ref\PersonelTakipOtomasyonuApı.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.Development.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.exe
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.deps.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.runtimeconfig.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Core.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Humanizer.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.AssemblyReference.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfoInputs.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfo.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.CoreCompileInputs.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cs
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.PersonelTakipOtomasyonuApı.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonelTakipOtomasyonuApı.props
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonelTakipOtomasyonuApı.props
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonelTakipOtomasyonuApı.props
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\scopedcss\bundle\PersonelTakipOtomasyonuApı.styles.css
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\Personel.72987302.Up2Date
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\refint\PersonelTakipOtomasyonuApı.dll
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.genruntimeconfig.cache
+D:\Dersler\Bilgisayar Programlama II\Geliştirilmiş Programlar\Masaüstü Uygulamam\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\ref\PersonelTakipOtomasyonuApı.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\refint\PersonelTakipOtomasyonuApı.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.Development.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\appsettings.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.exe
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.deps.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.runtimeconfig.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\PersonelTakipOtomasyonuApı.pdb
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Core.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Azure.Identity.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Humanizer.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.CodeDom.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.AssemblyReference.cache
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfoInputs.cache
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.AssemblyInfo.cs
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cs
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.MvcApplicationPartsAssemblyInfo.cache
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.build.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.development.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.PersonelTakipOtomasyonuApı.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.build.PersonelTakipOtomasyonuApı.props
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PersonelTakipOtomasyonuApı.props
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PersonelTakipOtomasyonuApı.props
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\scopedcss\bundle\PersonelTakipOtomasyonuApı.styles.css
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\Personel.72987302.Up2Date
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\PersonelTakipOtomasyonuApı.genruntimeconfig.cache
+D:\Bilgisayar Programlama\PersonelTakipOtomasyonuApı\PersonelTakipOtomasyonuApı\obj\Debug\net8.0\ref\PersonelTakipOtomasyonuApı.dll
