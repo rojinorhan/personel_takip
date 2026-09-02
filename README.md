@@ -58,18 +58,30 @@ Sistemde personellere ait aşağıdaki bilgilerin takip edilmesi amaçlanmışt�
 ---
 
 ## 🖼️ Uygulama Görselleri
+### 🔐 Giriş Ekranı
 
-### Ana Ekran
+Uygulamanın başlangıç ekranında kullanıcı, sistemde gerçekleştireceği işleme göre **Yönetici Login** veya **Personel Login** seçeneklerinden birini seçerek giriş yapabilir.
 
-Uygulamanın başlangıç ekranında kullanıcı, **Yönetici Login** veya **Personel Login** seçeneklerinden birini seçerek sisteme giriş yapabilir.
+<img width="1536" height="1024" alt="Giriş Ekranı" src="https://github.com/user-attachments/assets/fa3afef4-8c38-42ac-9d77-7e24517fb447" />
 
-![Ana Ekran](images/anaekran.png)
+---
 
-### Personel Görüntüleme
+### 👨‍💼 Yönetici Menüsü
 
-Personel görüntüleme ekranında kayıtlı personellerin bilgileri ayrıntılı şekilde listelenmektedir.
+Yönetici giriş yaptıktan sonra karşısına **Yönetici Menüsü** gelmektedir. Bu ekran üzerinden personel yönetimiyle ilgili işlemlere hızlı bir şekilde erişilebilir.
 
-![Personel Görüntüleme](images/personel-goruntule.png)
+Yönetici menüsünde;
+
+* 👁️ **Personel Görüntüle**
+* ➕ **Personel Ekle**
+* 🔄 **Personel Güncelle**
+* 🗑️ **Personel Sil**
+* 🔎 **Personel Ara**
+
+işlemleri gerçekleştirilebilir.
+
+<img width="1536" height="1024" alt="Yönetici Menüsü" src="https://github.com/user-attachments/assets/eb3c7357-3dcf-452a-a6d1-90216d2030e8" />
+
 
 > **Not:** Görselleri GitHub'da göstermek için `images` klasörü oluşturup ekran görüntülerini sırasıyla `anaekran.png` ve `personel-goruntule.png` isimleriyle ekleyebilirsin.
 
@@ -327,5 +339,3 @@ https://github.com/rojinorhan/personel_takip
 ## 📄 Lisans
 
 Bu proje eğitim ve geliştirme amacıyla hazırlanmıştır.
-<img width="1536" height="1024" alt="giriş" src="https://github.com/user-attachments/assets/fa3afef4-8c38-42ac-9d77-7e24517fb447" />
-<img width="1536" height="1024" alt="yonetici" src="https://github.com/user-attachments/assets/eb3c7357-3dcf-452a-a6d1-90216d2030e8" />
