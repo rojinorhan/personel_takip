@@ -61,8 +61,7 @@ Sistemde personellere ait aşağıdaki bilgilerin takip edilmesi amaçlanmışt�
 ### 🔐 Giriş Ekranı
 
 Uygulamanın başlangıç ekranında kullanıcı, sistemde gerçekleştireceği işleme göre **Yönetici Login** veya **Personel Login** seçeneklerinden birini seçerek giriş yapabilir.
-
-<img width="1536" height="1024" alt="Giriş Ekranı" src="https://github.com/user-attachments/assets/fa3afef4-8c38-42ac-9d77-7e24517fb447" />
+<img width="1536" height="1024" alt="Yönetici Menüsü" src="https://github.com/user-attachments/assets/eb3c7357-3dcf-452a-a6d1-90216d2030e8" />
 
 ---
 
@@ -80,7 +79,9 @@ Yönetici menüsünde;
 
 işlemleri gerçekleştirilebilir.
 
-<img width="1536" height="1024" alt="Yönetici Menüsü" src="https://github.com/user-attachments/assets/eb3c7357-3dcf-452a-a6d1-90216d2030e8" />
+
+<img width="1536" height="1024" alt="Giriş Ekranı" src="https://github.com/user-attachments/assets/fa3afef4-8c38-42ac-9d77-7e24517fb447" />
+
 
 
 > **Not:** Görselleri GitHub'da göstermek için `images` klasörü oluşturup ekran görüntülerini sırasıyla `anaekran.png` ve `personel-goruntule.png` isimleriyle ekleyebilirsin.
